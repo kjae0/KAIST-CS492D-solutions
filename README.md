@@ -6,7 +6,7 @@ Passed 100% success criteria across all assignments.
 ### Criteria
 ### Criteria
 | Evaluation Criterion | Task1 DDPM CD | Task2 FID |
-|---|---|---|---|
+|---|---|---|
 | **Success Condition \(100%\)** | 20.00 | 20.00 |
 | **Final Performance**  | 15.82  | 4.74 |
 
@@ -22,7 +22,7 @@ Passed 100% success criteria across all assignments.
 | Evaluation Criterion | Task1 inference image | Task2 LoRA custom style |
 |---|---|---|
 | **Success Condition \(100%\)** |  |  |
-| **Final Performance**  |  |  |
+| **Final Performance**  | ![task1_result](https://github.com/user-attachments/assets/bdf31f3e-c17c-4461-9d76-90afabc4394f) | ![task2_result1](https://github.com/user-attachments/assets/0a2ff906-82e1-4c04-8dd0-507aafd9b5de) |
 
 ## Assignment4
 ### Criteria
