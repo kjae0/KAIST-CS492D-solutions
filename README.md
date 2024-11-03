@@ -1,5 +1,5 @@
 # KAIST-CS492D-solutions
-My solutions of assignments (KAIST CS492(D) course offered by prof Minhyuk Sung) </br>
+My attempts of assignments (KAIST CS492(D) course offered by prof Minhyuk Sung) </br>
 Passed 100% success criteria across all assignments.
 
 ## Assignment1
