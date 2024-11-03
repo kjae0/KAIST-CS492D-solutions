@@ -28,6 +28,6 @@ Passed 100% success criteria across all assignments.
 ### Criteria
 All results are uploaded int pds_outputs & sds_outputs
 | Evaluation Criterion | SDS Cosine similarity | PDS Cosine similarity | VDS |
-|---|---|---|
+|---|---|---|---|
 | **Success Condition \(100%\)** | 0.28 | 0.28 | 0.28 |
 | **Final Performance**  | 0.30 | 0.33 | In progress |
