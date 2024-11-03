@@ -1,0 +1,14 @@
+{
+    "prompt": "A villa close to the pool",
+    "negative_prompt": "low quality",
+    "edit_prompt": "A villa covered with ivy close to the pool",
+    "src_img_path": "./data/imgs/A_villa_close_to_the_pool.png",
+    "save_dir": "./pds_output/A_villa_close_to_the_pool",
+    "loss_type": "pds",
+    "guidance_scale": 7.5,
+    "step": 500,
+    "device": 0,
+    "lr": 0.001,
+    "log_step": 25,
+    "precision": "fp32"
+}

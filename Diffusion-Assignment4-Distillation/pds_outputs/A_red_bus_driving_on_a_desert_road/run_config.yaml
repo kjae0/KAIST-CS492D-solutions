@@ -1,0 +1,14 @@
+{
+    "prompt": "A red bus driving on a desert road",
+    "negative_prompt": "low quality",
+    "edit_prompt": "A yellow school bus driving on a desert road",
+    "src_img_path": "./data/imgs/A_red_bus_driving_on_a_desert_road.png",
+    "save_dir": "./pds_output/A_red_bus_driving_on_a_desert_road",
+    "loss_type": "pds",
+    "guidance_scale": 7.5,
+    "step": 500,
+    "device": 0,
+    "lr": 0.001,
+    "log_step": 25,
+    "precision": "fp32"
+}

@@ -1,0 +1,14 @@
+{
+    "prompt": "A cabin surrounded by forests",
+    "negative_prompt": "low quality",
+    "edit_prompt": "A cabin surrounded by flowers",
+    "src_img_path": "./data/imgs/A_cabin_surrounded_by_forests.png",
+    "save_dir": "./pds_output/A_cabin_surrounded_by_forests",
+    "loss_type": "pds",
+    "guidance_scale": 7.5,
+    "step": 500,
+    "device": 0,
+    "lr": 0.001,
+    "log_step": 25,
+    "precision": "fp32"
+}

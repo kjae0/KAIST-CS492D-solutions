@@ -1,0 +1,14 @@
+{
+    "prompt": "A dog sitting on grass",
+    "negative_prompt": "low quality",
+    "edit_prompt": "A golden retriever sitting on grass",
+    "src_img_path": "./data/imgs/A_dog_sitting_on_grass.png",
+    "save_dir": "./pds_output/A_dog_sitting_on_grass",
+    "loss_type": "pds",
+    "guidance_scale": 7.5,
+    "step": 500,
+    "device": 0,
+    "lr": 0.001,
+    "log_step": 25,
+    "precision": "fp32"
+}

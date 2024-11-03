@@ -1,0 +1,14 @@
+{
+    "prompt": "a boat in a river",
+    "negative_prompt": "low quality",
+    "edit_prompt": "a golden boat in a river",
+    "src_img_path": "./data/imgs/a_boat_in_a_river.png",
+    "save_dir": "./pds_output/a_boat_in_a_river",
+    "loss_type": "pds",
+    "guidance_scale": 7.5,
+    "step": 500,
+    "device": 0,
+    "lr": 0.001,
+    "log_step": 25,
+    "precision": "fp32"
+}

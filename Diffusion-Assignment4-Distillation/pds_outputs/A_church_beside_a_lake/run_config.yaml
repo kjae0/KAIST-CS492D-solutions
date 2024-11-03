@@ -1,0 +1,14 @@
+{
+    "prompt": "A church beside a lake",
+    "negative_prompt": "low quality",
+    "edit_prompt": "A church beside a lake at night",
+    "src_img_path": "./data/imgs/A_church_beside_a_lake.png",
+    "save_dir": "./pds_output/A_church_beside_a_lake",
+    "loss_type": "pds",
+    "guidance_scale": 7.5,
+    "step": 500,
+    "device": 0,
+    "lr": 0.001,
+    "log_step": 25,
+    "precision": "fp32"
+}

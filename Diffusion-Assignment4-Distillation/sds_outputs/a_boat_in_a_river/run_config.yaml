@@ -1,0 +1,14 @@
+{
+    "prompt": "a boat in a river",
+    "negative_prompt": "low quality",
+    "edit_prompt": null,
+    "src_img_path": null,
+    "save_dir": "./sds_output/a_boat_in_a_river",
+    "loss_type": "sds",
+    "guidance_scale": 25.0,
+    "step": 500,
+    "device": 0,
+    "lr": 0.001,
+    "log_step": 25,
+    "precision": "fp32"
+}

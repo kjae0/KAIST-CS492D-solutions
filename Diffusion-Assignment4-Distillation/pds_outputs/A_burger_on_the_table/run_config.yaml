@@ -1,0 +1,14 @@
+{
+    "prompt": "A burger on the table",
+    "negative_prompt": "low quality",
+    "edit_prompt": "A burger with lettuce on the table",
+    "src_img_path": "./data/imgs/A_burger_on_the_table.png",
+    "save_dir": "./pds_output/A_burger_on_the_table",
+    "loss_type": "pds",
+    "guidance_scale": 7.5,
+    "step": 500,
+    "device": 0,
+    "lr": 0.001,
+    "log_step": 25,
+    "precision": "fp32"
+}
