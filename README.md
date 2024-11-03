@@ -4,7 +4,6 @@ Passed 100% success criteria across all assignments.
 
 ## Assignment1
 ### Criteria
-### Criteria
 | Evaluation Criterion | Task1 DDPM CD | Task2 FID |
 |---|---|---|
 | **Success Condition \(100%\)** | 20.00 | 20.00 |
