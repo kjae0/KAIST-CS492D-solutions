@@ -20,8 +20,8 @@ Passed 100% success criteria across all assignments.
 ### Criteria
 | Evaluation Criterion | Task1 inference image | Task2 LoRA custom style |
 |---|---|---|
-| **Success Condition \(100%\)** |  |  |
-| **Final Performance**  | ![task1_result](https://github.com/user-attachments/assets/bdf31f3e-c17c-4461-9d76-90afabc4394f) | ![task2_result1](https://github.com/user-attachments/assets/0a2ff906-82e1-4c04-8dd0-507aafd9b5de) |
+| **Success Condition \(100%\)** | N/A | N/A |
+| **Result**  | ![task1_result](https://github.com/user-attachments/assets/bdf31f3e-c17c-4461-9d76-90afabc4394f) | ![task2_result1](https://github.com/user-attachments/assets/0a2ff906-82e1-4c04-8dd0-507aafd9b5de) |
 
 ## Assignment4
 ### Criteria
